@@ -11,6 +11,7 @@ Roll-a-Ball is a beginner-friendly 3D game where players control a rolling ball 
 - Control a ball in 3D space
 - Collect pickup objects
 - Score tracking
+- Run from enemy that constantly chases you
 - Win condition when all objects are collected
 
 ## Installation Instructions
