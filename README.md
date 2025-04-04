@@ -23,8 +23,6 @@ Roll-a-Ball is a beginner-friendly 3D game where players control a rolling ball 
 2. Open the folder (you need to unzip it)
 
 3. Click on the rollaball.exe(in your case) application file to launch the game:
-   ![image](https://github.com/user-attachments/assets/56b9ff7d-872e-4f6f-8337-7cb7ff6b1866)
-
 
 4. Enjoy the game!
 
