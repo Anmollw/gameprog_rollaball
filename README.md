@@ -44,9 +44,9 @@ Roll-a-Ball is a beginner-friendly 3D game where players control a rolling ball 
 
 ## Technologies Used
 
-- Unity 2021.3 (or your specific version)
+- Unity
 - C# programming language
-- Visual Studio Code/Visual Studio (your IDE)
+- Visual Studio Code
 
 ## Credits
 
